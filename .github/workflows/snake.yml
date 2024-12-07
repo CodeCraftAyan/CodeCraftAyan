@@ -3,9 +3,7 @@ name: Generate snake animation
 on:
   schedule:
     - cron: "* */12 * * *"  # Runs every 12 hours
-
   workflow_dispatch:  # Allows manual trigger of the workflow
-
   push:
     branches:
       - main  # Replace 'main' with the branch you're using (e.g., 'master')
@@ -30,7 +28,7 @@ jobs:
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output  # Pushes to the 'output' branch (you can create this branch if not exists)
+          target_branch: output  # Pushes to the 'output' branch
           build_dir: dist  # Directory containing the generated files
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token for authentication
