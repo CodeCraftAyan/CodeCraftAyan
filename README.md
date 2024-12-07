@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img src="https://github.com/user-attachments/assets/138a7120-ab2a-4b4b-9cfc-6967a26b0e25" height="170" alt="cartoon coder gif" align="right"/>
 
 ###
 
