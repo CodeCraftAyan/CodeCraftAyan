@@ -1,13 +1,18 @@
-<h2 align="left">Hi 👋! My name is Ayan</h2>
+<div>
+    <h2 align="center" style="margin-bottom: 0; padding-bottom: 0;">Hi 👋! My name is Ayan</h2>
+    <p align="center" style="margin-top: 0; padding-top: 0;">🚀 A passionate programmer and tech enthusiast from India, dedicated to building the future with code!</p>
+</div>
 
 ###
 
-<div align="center">
+<div style="padding: 30px 0;">
   <p>
-    I'm a passionate <strong>AI Enthusiast</strong> and <strong>Web Developer</strong> from India.  
-    I am currently exploring the world of <strong>artificial intelligence</strong> and working on developing real-world applications.  
-    I have a strong interest in <strong>Python</strong> and <strong>web development technologies</strong> like HTML, CSS, and JavaScript.  
-    I enjoy learning and building projects that solve real-world problems, and I'm always open to new challenges.
+    <ul>
+      <li>🌟 I'm a passionate <strong>AI Enthusiast</strong> and <strong>Web Developer</strong> from India 🇮🇳.</li>
+      <li>🤖 I am currently exploring the world of <strong>artificial intelligence</strong> and working on developing real-world applications.</li>
+      <li>🐍 I have a strong interest in <strong>Python</strong> and <strong>web development technologies</strong> like HTML, CSS, and JavaScript.</li>
+      <li>🚀 I enjoy learning and building projects that solve real-world problems, and I'm always open to new challenges.</li>
+    </ul>
   </p>
 </div>
 
@@ -73,3 +78,5 @@
 <img src="https://raw.githubusercontent.com/CodeCraftAyan/CodeCraftAyan/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h3 align="center">Let's create something amazing together! 🚀</h3>
