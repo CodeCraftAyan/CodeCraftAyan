@@ -1,6 +1,6 @@
 <div>
     <h2 align="center" style="margin-bottom: 0; padding-bottom: 0;">Hi 👋! My name is Ayan</h2>
-    <p align="center" style="margin-top: 0; padding-top: 0;">🚀 A passionate programmer and tech enthusiast from India, dedicated to building the future with code!</p>
+    <p align="center" style="margin-top: 0; padding-top: 0;">🚀 A passionate programmer and tech enthusiast from India 🇮🇳, dedicated to building the future with code!</p>
 </div>
 
 ###
@@ -8,7 +8,6 @@
 <div style="padding: 30px 0;">
   <p>
     <ul>
-      <li>🌟 I'm a passionate <strong>AI Enthusiast</strong> and <strong>Web Developer</strong> from India 🇮🇳.</li>
       <li>🤖 I am currently exploring the world of <strong>artificial intelligence</strong> and working on developing real-world applications.</li>
       <li>🐍 I have a strong interest in <strong>Python</strong> and <strong>web development technologies</strong> like HTML, CSS, and JavaScript.</li>
       <li>🚀 I enjoy learning and building projects that solve real-world problems, and I'm always open to new challenges.</li>
