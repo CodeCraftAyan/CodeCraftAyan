@@ -8,8 +8,8 @@
 <div style="padding: 30px 0;">
   <p>
     <ul>
-      <li>🤖 I am currently exploring the world of <strong>artificial intelligence</strong> and working on developing real-world applications.</li>
-      <li>🐍 I have a strong interest in <strong>Python</strong> and <strong>web development technologies</strong> like HTML, CSS, and JavaScript.</li>
+      <li>🐍 I am currently diving deep into <strong>Python programming</strong> and building real-world applications with it.</li>
+      <li>🛠️ I have a strong interest in <strong>software engineering</strong> and love working on efficient, well-structured solutions.</li>
       <li>🚀 I enjoy learning and building projects that solve real-world problems, and I'm always open to new challenges.</li>
     </ul>
   </p>
