@@ -20,4 +20,4 @@ My journey into tech began out of pure curiosity, and over time it evolved into 
 
 ###
 
-<img src="https://raw.githubusercontent.com/CodeCraftAyan/CodeCraftAyan/output/snake.svg" alt="Snake animation" width="70%" align="left" />
+<img src="https://raw.githubusercontent.com/CodeCraftAyan/CodeCraftAyan/output/snake.svg" alt="Snake animation" width="68%" align="left" />
