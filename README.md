@@ -12,11 +12,12 @@ My journey into tech began out of pure curiosity, and over time it evolved into 
 
 ###
 
-<div align="left">
-  <a href="https://github.com/CodeCraftAyan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" alt="github logo"  />
+<p>
+    Visit my 
+    <a href="https://github.com/CodeCraftAyan/Ayan-Mandal/" target="_blank">
+    <strong>Portfolio Website</strong>
   </a>
-</div>
+</p>
 
 ###
 
